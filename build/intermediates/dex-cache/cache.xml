@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/luojin/.android/build-cache/3d7bf3766f07443c754f78b1bce42d4c1234691c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/luojin/Downloads/DbUtils/app/build/intermediates/pre-dexed/debug/classes_db82b25441f2edf65e1c199d3833ee8d6291ff43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luojin/.android/build-cache/12ef31a4c2e4a777d43255ac9f93730a2b21d880/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/luojin/Downloads/DbUtils/app/build/intermediates/pre-dexed/debug/classes_6bef25c41635a1c6d0d435091bfda1efd2088673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luojin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/luojin/Downloads/DbUtils/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_28dda35e81a685f41472db2bfd6785c3bd49c12c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luojin/.android/build-cache/a985574c26bfada7b28eb035f5f093010b1cd033/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/luojin/Downloads/DbUtils/app/build/intermediates/pre-dexed/debug/classes_5eed73096d4ca40e6495fc24376569e5760688eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luojin/.android/build-cache/d2ea449acd181781051a50e7ea2956e2074ec714/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/luojin/Downloads/DbUtils/app/build/intermediates/pre-dexed/debug/classes_ad61c7012ee6c53fc35a596db8b920ae047eb912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luojin/.android/build-cache/06e43c20c20aee03261aec60d2ab40753c668b45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/luojin/Downloads/DbUtils/app/build/intermediates/pre-dexed/debug/classes_48d93ee42745aa5e9bfc9535d35ebac2e3224feb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luojin/.android/build-cache/a6280e03b43305d25bb8ebe3014dd30ae792b87d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/luojin/Downloads/DbUtils/app/build/intermediates/pre-dexed/debug/classes_f6f09d1809c4a9808094eba76b796c1718ec262a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luojin/.android/build-cache/ccecd225187cfa6af4b747b0d58477e3db3189ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/luojin/Downloads/DbUtils/app/build/intermediates/pre-dexed/debug/classes_2010f413666866d44d4ab4c2b84d33da8d17b5c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luojin/.android/build-cache/32ad46081f87e578c90ba8a24e463f1de56e89e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/luojin/Downloads/DbUtils/app/build/intermediates/pre-dexed/debug/classes_5fcd72dcea6980b7a2f562894cf1443ba741762d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luojin/.android/build-cache/84652bc62abfba1a0e17a952e880fa074a7c39cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/luojin/Downloads/DbUtils/app/build/intermediates/pre-dexed/debug/classes_33e8c7d060be465cb08e1931c405731eeb967b0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luojin/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/luojin/Downloads/DbUtils/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_b69db7d6f621976e670c4e5853e098e4d46b18bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luojin/.android/build-cache/67e54d50a8d90d41909224a3a6af2c0b13566192/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/luojin/Downloads/DbUtils/app/build/intermediates/pre-dexed/debug/classes_1f38d5573f640fb40201d2ce1fd242724008c412.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luojin/Downloads/DbUtils/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9a1fd178a21496f7fd64cffc85d7e83825d59d5b">
+        <dex dex="/Users/luojin/Downloads/DbUtils/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bb3cf320a487cf5e024c596ca002e82b72ac3142/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luojin/Downloads/DbUtils/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/luojin/Downloads/DbUtils/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_30fdbb030f2d8f553c2583384be412306eccfad3/classes.dex" />
+    </item>
+
+</items>
